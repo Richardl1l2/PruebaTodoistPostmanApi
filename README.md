@@ -1,6 +1,8 @@
 # Proyecto Todoist Api Postman :nerd_face:
 
-En el siguiente archivo encontrarán toda la información sobre el Proyecto Castor Automation QA Api.
+En el siguiente archivo encontrarán toda la información sobre el Proyecto todoist Automation QA Api.
+
+La automatización permite agregar, editar y eliminar tareas
 
 - Estructura
  
