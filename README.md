@@ -51,6 +51,6 @@ id: Identificador único de la tarea.
  Descripción: Configuración del entorno con el ID de acceso.   
 ```bash
 Variables:
-id: Identificador utilizado en las solicitude
+id: Identificador utilizado en las solicitudes
 ```
  
