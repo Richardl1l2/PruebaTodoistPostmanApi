@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "b347cb27-75ce-4367-a3f9-5b794d52aee8",
-		"name": "pruebas castor api",
+		"_postman_id": "1e536769-b83c-4312-aaf4-a8f219261757",
+		"name": "pruebas todoist api postman",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "28772816"
+		"_exporter_id": "20807320"
 	},
 	"item": [
 		{
