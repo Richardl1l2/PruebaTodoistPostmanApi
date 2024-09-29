@@ -9,11 +9,8 @@ La automatización permite agregar, editar y eliminar tareas
 
 ## Precondición
 
-Se debe resgistrar en la plataforma https://app.todoist.com/auth/login y agregar el correo y contraseña en los campos de cada TestCase
-```bash
-${email}  #Ingresarcorreo
-${pwd}    #Ingresarpasword
-```
+Se debe resgistrar en la plataforma https://app.todoist.com/auth/login e ingresar el apitoken directamente de la cuenta en la opcion desarrolladores 
+
 ## Estructura
 Estructura de la Colección de Postman
 Colección: Gestión de Tareas
