@@ -4,8 +4,16 @@ En el siguiente archivo encontrarán toda la información sobre el Proyecto todo
 
 La automatización permite agregar, editar y eliminar tareas
 
+- Precondición
 - Estructura
- 
+
+## Precondición
+
+Se debe resgistrar en la plataforma https://app.todoist.com/auth/login y agregar el correo y contraseña en los campos de cada TestCase
+```bash
+${email}  #Ingresarcorreo
+${pwd}    #Ingresarpasword
+```
 ## Estructura
 Estructura de la Colección de Postman
 Colección: Gestión de Tareas
